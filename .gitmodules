@@ -1,0 +1,3 @@
+[submodule "deposit-predictability-classification"]
+	path = deposit-predictability-classification
+	url = https://github.com/harinya2002/deposit-predictability-classification.git
